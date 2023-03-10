@@ -1,4 +1,9 @@
 ﻿-- Object < 200000 
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
 ROAD = {
     -- grond
     --3133, 3026, 10560,
@@ -59,6 +64,11 @@ ROAD = {
 };
 
 -- Object >= 200000
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
+-- 請不要填 Ground 編號 Object 編號必須大於 0
 NEWROAD = {
     -- 02212023 啾咪
     235039, 235041, 235043,
