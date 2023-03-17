@@ -412,7 +412,7 @@ setrockex(3, 2, ROCKEX_6);
 local ROCKEX_6_2 <const> = {
     12118
 };
-setrockex(3, 2, ROCKEX_6_2);
+setrockex(2, 3, ROCKEX_6_2);
 
 
 ----------------------------------------------------------------
