@@ -452,6 +452,7 @@ local wall_ranges = {
     { 13504, 13683 },
     { 13684, 13827 },
     { 13900, 13995 },
+    { 10474, 10481 },
 };
 
 for _, range in ipairs(wall_ranges) do
