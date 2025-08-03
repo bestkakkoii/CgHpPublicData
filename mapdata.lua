@@ -238,7 +238,7 @@ NEWROAD = {
 
 
     --車站軌道--
-    221293, 221295, 221279,
+    221293,  221279,
 
     --未知物件，我會在去找一下--
     260089, 260090, 260091, 260092, 260093, 260094, 260097, 260098,
@@ -1761,3 +1761,4 @@ local ground_ranges = {
 for _, range in ipairs(ground_ranges) do
     AppendRange(GROUND, range);
 end
+
